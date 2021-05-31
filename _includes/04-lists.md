@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. ゲーム 
+2. アイス
+3. デザート
+   1. プリン
+   2. ドーナッツ
